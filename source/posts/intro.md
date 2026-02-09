@@ -22,34 +22,31 @@ Muonium is an exotic atom made up of an antimuon and an electron, resembling hyd
 
 ![ Perspective view of MACE detector concept.](/asset/MACE_conceptual_design.pdf)
 
-To achieve this unprecedented sensitivity, MACE utilizes the world-class infrastructure of the China initiative Accelerator Driven System (CiADS) located in Huizhou. The experiment depends on a high-intensity muon beam with cutting-edge technology, a specialized muonium production target and a sophisticated detector system. This setup features a high-precision Michel electron Magnetic Spectrometer(MMS), Positron Transport System(PTS) and Position Detection System(PDS) designed to distinguish ultra-rare signals from backgrounds with unprecedented sensitivity. These technological advancements not only benefit fundamental physics but could also drive innovation in radiation detection, material science and medical imaging.
-
-### **A Visionary Collaboration**
+To achieve this unprecedented sensitivity, MACE utilizes the world-class infrastructure of the China initiative Accelerator Driven System (CiADS) located in Huizhou. The experiment depends on a high-intensity muon beam with cutting-edge technology, a specialized muonium production target and a sophisticated detector system. This setup features a high-precision Michel electron Magnetic Spectrometer (MMS), Positron Transport System (PTS) and Position Detection System (PDS) designed to distinguish ultra-rare signals from backgrounds with unprecedented sensitivity. These technological advancements not only benefit fundamental physics but could also drive innovation in radiation detection, material science and medical imaging.
 
 MACE working group involves over a dozen leading research institutions. This project positions the Guangdong-Hong Kong-Macao Greater Bay Area at the forefront of high-precision particle physics. By pushing the limits of what can be measured, the MACE collaboration aims to either discover new particles or set the world's most stringent limits on the symmetries of our universe.
 
 ### **Explore More**
 
-#### Intuitive introduction vedio:
+####  Introduction vedio:
 <div style="position: relative; padding: 28.2% 45%;">
   <iframe
     style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"
-    src="https://player.bilibili.com/player.html?isOutside=true&aid=116038305907187&bvid=BV1ppcTzyEk5&cid=35923823571&p=1&high_quality=1&autoplay=false"
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=116038305907187&bvid=BV1ppcTzyEk5&cid=35923886340&p=1&high_quality=1&autoplay=false"
     frameborder="no"
     scrolling="no"
     allowfullscreen="true"
   ></iframe>
 </div>
-
 #### [Conceptual Design report of MACE](https://doi.org/10.1007/s41365-025-01876-0)
 
-#### News mentions of MACE
+#### Mentions
 - [EurekAlert!](http://ct.moreover.com/?a=58754599931&p=1pl&v=1&x=6ZbfcFMK_PjQBVFpnKmf0Q)
 - [Mirage News](http://ct.moreover.com/?a=58754720854&p=1pl&v=1&x=J1hnNrVma0UJlm_Hy-VNUQ)
 - [ScienMag](https://scienmag.com/a-100-fold-breakthrough-new-quest-to-detect-muonium-transforming-into-antimuonium/)
 - [Bioengineer.org](http://ct.moreover.com/?a=58766292837&p=1pl&v=1&x=of9gmRuxYqShTIhYm3tuJA)
 
-#### Offline software of MACE
+#### MACE Offline software
 MACE has its offline software: [MACESW](https://github.com/zhao-shihan/MACESW). It is based on a self-developed framework: [Mustard](https://github.com/zhao-shihan/Mustard), a modern high-performance offline software framework designed for particle physics experiments.
 
 ### **Contact Information**
