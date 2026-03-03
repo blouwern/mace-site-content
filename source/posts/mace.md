@@ -1,18 +1,30 @@
+---
+layout: single
+title: "MACE"
+permalink: /additionalPages/mace
+author_profile: true
+---
+
+
+
 # MACE: Muonium-to-Antimuonium Conversion Experiment
 
 ### **The Scientific Quest for New Physics**
 
+<img src="/images/additionalPages/mace/MACE_logo_v2.svg" alt="MACE logo" align="right" width=300/>
+
 The Standard Model of particle physics remains the cornerstone of our understanding of the subatomic world, yet it leaves profound questions unanswered. Scientists still seek to explain why matter dominates antimatter in our universe, the true origin of neutrino masses, and the nature of dark matter. The Muonium-to-Antimuonium Conversion Experiment (MACE) can help address these mysteries by searching for Charged Lepton Flavor Violation (cLFV). While flavor conservation is a key rule in the Standard Model, the discovery of neutrino oscillations has already challenged this boundary. MACE now looks toward the muon as the ideal probe to find definitive evidence of physics beyond our current theories.
+
 
 ### **A Unique Path to Discovery**
 
 <table>
   <tr>
-    <td><img src="/asset/MACE_NP_scale_vary_cs-rev2.pdf" width="100%"></td>
-    <td><img src="/asset/MACE_NP_scale_vary_cv-rev2.pdf" width="100%"></td>
+    <td><img src="/images/additionalPages/mace/MACE_NP_scale_vary_cs-rev2.svg" width="100%"></td>
+    <td><img src="/images/additionalPages/mace/MACE_NP_scale_vary_cv-rev2.svg" width="100%"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">The new physics scale accessible to experiments searching for $\Delta L_l = 2$ processes.</td>
+    <td colspan="2" align="center">The new physics scale accessible to experiments searching for $$\Delta L_l = 2$$ processes.</td>
   </tr>
 </table>
 
@@ -20,7 +32,7 @@ Muonium is an exotic atom made up of an antimuon and an electron, resembling hyd
 
 ### **World-Class Innovation and Infrastructure**
 
-![ Perspective view of MACE detector concept.](/asset/MACE_conceptual_design.pdf)
+![ Perspective view of MACE detector concept.](/images/additionalPages/mace/MACE_conceptual_design.svg)
 
 To achieve this unprecedented sensitivity, MACE utilizes the world-class infrastructure of the China initiative Accelerator Driven System (CiADS) located in Huizhou. The experiment depends on a high-intensity muon beam with cutting-edge technology, a specialized muonium production target and a sophisticated detector system. This setup features a high-precision Michel electron Magnetic Spectrometer (MMS), Positron Transport System (PTS) and Position Detection System (PDS) designed to distinguish ultra-rare signals from backgrounds with unprecedented sensitivity. These technological advancements not only benefit fundamental physics but could also drive innovation in radiation detection, material science and medical imaging.
 
